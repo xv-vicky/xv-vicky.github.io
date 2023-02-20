@@ -101,7 +101,7 @@ img{
 	width:80%;
 	height:2px;}
 .back-darkgrey .sec-title:after {
-	background:#000000;
+	background:#cd9ef3;
 }
 .back-lightgrey .sec-title:after {
 	background:#000000;
@@ -228,7 +228,7 @@ a:focus,a:hover{text-decoration:none}
     font-weight: 100;
 }
 .back-overlay {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.1);
     height: 100vh;
     position: absolute;
     display: block;
@@ -1639,7 +1639,7 @@ div.wpcf7-mail-sent-ok{
     color: #9b999e;
 }
 .back-color{
-	background:linear-gradient(#000000, silver);
+	background:linear-gradient(#cd9ef3, #9c78b9);
 	color: #f5f5f5;
 }
 .entry-1{
@@ -1959,7 +1959,7 @@ h2.custom{
     font-size: 20px;
 }	
 .hello .message {
-    top: 68%;
+    top: 80%;
 }
 #overlay-menu ul li a{
 	font-size:24px}
