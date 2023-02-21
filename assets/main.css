@@ -125,7 +125,7 @@ img{
 }
 a:focus,a:hover{text-decoration:none}
 #menu-burger{
-	background-color: #7e7d7d;
+	background-color: #310452;
 	width:40px;
 	height:40px;
 	position:fixed;
@@ -878,7 +878,7 @@ ol ol,ol ul,ul ol,ul ul{margin-bottom:0}
 	font-size:14px;
 	line-height:1.428571429;
 	border-radius:4px;
-	background-color: #7e7d7d;
+	background-color: #310452;
 	color:#fff;}
 
 .btn-block{
@@ -1178,7 +1178,7 @@ height: 50px;
     background-image: url(../assets/border_2.png);
 }
 .back-color:before{
-    background-image: url(../assets/border_1.png);
+    background-image: url(../assets/border_3.png);
 	}
 .mobile-welcome{
 	background:#E5B449;
@@ -1611,7 +1611,7 @@ div.wpcf7-mail-sent-ok{
 	font-size:16px;
 	max-width:200px;
 	position:relative;
-	background:#7e7d7d;
+	background:#310452;
 	color:#ffffff;
     box-shadow: 3px 3px 0px rgba(0,0,0,0.2);
 	width:100%;
@@ -1623,7 +1623,7 @@ div.wpcf7-mail-sent-ok{
 	line-height:44px;
 	}
 .btn-light{
-	background: #7e7d7d !important;
+	background: #310452 !important;
     color: #ffffff !important;
 }
 
@@ -1636,7 +1636,7 @@ div.wpcf7-mail-sent-ok{
 }
 .back-darkgrey{
 	background: #efefef;
-    color: #9b999e;
+    color: #9c78b9;
 }
 .back-color{
 	background:linear-gradient(#cd9ef3, #9c78b9);
