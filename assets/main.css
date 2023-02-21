@@ -25,7 +25,9 @@ body{
 	font-family: 'Playfair Display', serif;
 	font-size:14px;
 	line-height:1.4;
-	color:#333;}
+	/*color:#333;*/
+	color:#cd9ef3;
+}
 a{
     cursor: pointer;
 	text-decoration:none}
