@@ -44,9 +44,14 @@
 	/*Preloader*/
 	 $(window).load(function() {
 
-	   $("#status").fadeOut("slow");
+	   //$("#status").fadeOut("slow");
 
-	   $("#preloader").delay(500).fadeOut("slow").remove();        
+	    //$("#preloader").delay(500).fadeOut("slow").remove();
+
+      setTimeout(function() {
+        $("#status").fadeOut("slow");
+        $("#preloader").fadeOut("slow").remove();}
+        , 1000);
 
 		//initializeClock('clockdiv2','2019-11-22');
 	   //initializeClock('clockdiv','2019-11-22');
@@ -70,7 +75,7 @@
 
 	<div id="preloader">
 		<div id="status">
-			<img alt="" height="50" src="./assets/heart.gif" width="50"/>
+			<img alt="" height="50" src="./assets/corona_vicky_54.gif" width="50"/>
 		</div>
 	</div>
 

@@ -3687,11 +3687,11 @@ function() {
                         });
                         var s, r, a, l, h = new Date("Nov 26, 2016 22:00:00").getTime(),
                             c = document.getElementById("countdown");
-                        setInterval(function() {
+                        /*setInterval(function() {
                             var t = (new Date).getTime(),
                                 e = (h - t) / 1e3;
                             s = parseInt(e / 86400), e %= 86400, r = parseInt(e / 3600), e %= 3600, a = parseInt(e / 60), l = parseInt(e % 60), c.innerHTML = s + ' <span class="calendar">días y </span>' + r + ' <span class="calendar">h0ras</span>'
-                        }, 1e3), t("#menu-burger").click(function() {
+                        }, 1e3), */t("#menu-burger").click(function() {
                             var e = t("#overlay-menu"),
                                 i = t("#menu-burger .menu-icon"),
                                 n = t("#menu-burger");

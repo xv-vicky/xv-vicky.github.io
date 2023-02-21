@@ -38,7 +38,7 @@ function initializeClock(id, endtime) {
 }
 
 
-var future = new Date("Nov 22 2019 21:00:00");
+var future = new Date("Mar 17 2023 21:00:00");
 
 var deadline = new Date(Date.parse(future));
 initializeClock('clockdiv', deadline);

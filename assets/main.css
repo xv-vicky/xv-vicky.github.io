@@ -7,7 +7,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #000000;
+    background-color: #cd9ef3;
     z-index: 999999999;
     height: 100%;
 }
@@ -1117,7 +1117,7 @@ p{
 	height:300px;
 	margin-top:0}
 .hello{
-	background: rgba(0, 0, 0, 0) url(../assets/back1.png) no-repeat fixed center top / 100% auto;
+	background: rgba(0, 0, 0, 0) no-repeat fixed center top / 100% auto;
 	height:100vh;
 	top:0;
 	left:0;
