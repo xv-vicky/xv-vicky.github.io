@@ -1961,7 +1961,7 @@ h2.custom{
     font-size: 20px;
 }	
 .hello .message {
-    top: 80%;
+    top: 75%;
 }
 #overlay-menu ul li a{
 	font-size:24px}
@@ -2057,7 +2057,7 @@ p{
 .countdownDown div > span, .contdownTop div > span {
     font-size: 80px;}
 section {
-    padding: 60px 0;
+    padding: 30px 0;
 }	
 .faqs li h3 {
     line-height: 1.3;
